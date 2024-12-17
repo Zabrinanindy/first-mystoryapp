@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyStory</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Ruang aman dan nyaman untukmu membagikan cerita harian dan momen kecilmu 🌈</string>
+    <string name="title_signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="notAcc">Belum punya akun ? </string>
+    <string name="havAcc">Sudah punya akun ? </string>
+    <string name="title_login">Login</string>
+    <string name="username">Username</string>
+    <string name="dateStory">Tanggal Posting</string>
+    <string name="descStory">Caption Posting</string>
+    <string name="logout">Keluar</string>
+    <string name="fab_add">Tambahkan cerita</string>
+    <string name="login_img">Gambar Login</string>
+    <string name="signup_img">Gambar Signup</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Galeri</string>
+    <string name="desc">Deskripsi foto</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="tv_desc">Tulislah ceritamu hari ini</string>
+    <string name="add_photo">Unggah gambar melalui kamera atau galeri</string>
+    <string name="upload">Upload</string>
+    <string name="valid_email">Email harus valid</string>
+    <string name="invalid_email">Email tidak valid</string>
+    <string name="invalid_password">Password tidak valid</string>
+    <string name="invalid_user">User tidak ditemukan</string>
+    <string name="error_password">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="user_created">Akun berhasil dibuat</string>
+    <string name="required">Required</string>
+    <string name="empty_image">Tidak ada gambar yang dipilih</string>
+    <string name="empty_desc">Tidak ada deskripsi untuk gambar ini</string>
+    <string name="login_success">Telah berhasil masuk ke aplikasi</string>
+
+</resources>
